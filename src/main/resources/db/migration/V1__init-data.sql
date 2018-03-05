@@ -1,0 +1,2 @@
+-- To be used by Flyway for data migration and database versioning
+-- insert into sections (`name`,created_at) values ('Section Test', '2018-02-28');
