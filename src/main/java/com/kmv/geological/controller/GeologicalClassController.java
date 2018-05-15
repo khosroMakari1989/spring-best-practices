@@ -1,9 +1,9 @@
 package com.kmv.geological.controller;
 
 import com.kmv.geological.aspect.CheckBindingResult;
-import com.kmv.geological.domain.dto.geologicalclass.GeologicalClassFilterRequestDTO;
-import com.kmv.geological.domain.dto.geologicalclass.GeologicalClassResponseDTO;
-import com.kmv.geological.domain.dto.page.SimplePageResponseDTO;
+import com.kmv.geological.dto.geologicalclass.GeologicalClassFilterRequestDTO;
+import com.kmv.geological.dto.geologicalclass.GeologicalClassResponseDTO;
+import com.kmv.geological.dto.page.SimplePageResponseDTO;
 import com.kmv.geological.service.api.GeologicalClassService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

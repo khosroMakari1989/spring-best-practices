@@ -1,7 +1,7 @@
-package com.kmv.geological.repository.api;
+package com.kmv.geological.domain.repository.api;
 
 import com.kmv.geological.domain.entity.JobEntity;
-import com.kmv.geological.repository.MiddleRepository;
+import com.kmv.geological.domain.repository.MiddleRepository;
 
 /**
  *

@@ -1,6 +1,6 @@
-package com.kmv.geological.domain.dto.section;
+package com.kmv.geological.dto.section;
 
-import com.kmv.geological.domain.dto.page.SimplePageRequestDTO;
+import com.kmv.geological.dto.page.SimplePageRequestDTO;
 import javax.validation.constraints.Min;
 import javax.validation.constraints.NotNull;
 

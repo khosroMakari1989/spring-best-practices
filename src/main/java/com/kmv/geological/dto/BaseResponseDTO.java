@@ -1,4 +1,4 @@
-package com.kmv.geological.domain.dto;
+package com.kmv.geological.dto;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import java.io.Serializable;

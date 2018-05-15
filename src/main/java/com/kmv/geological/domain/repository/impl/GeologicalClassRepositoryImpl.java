@@ -1,11 +1,11 @@
-package com.kmv.geological.repository.impl;
+package com.kmv.geological.domain.repository.impl;
 
-import com.kmv.geological.domain.dto.geologicalclass.GeologicalClassFilterRequestDTO;
-import com.kmv.geological.domain.dto.geologicalclass.GeologicalClassResponseDTO;
-import com.kmv.geological.domain.dto.page.SimplePageResponseDTO;
+import com.kmv.geological.dto.geologicalclass.GeologicalClassFilterRequestDTO;
+import com.kmv.geological.dto.geologicalclass.GeologicalClassResponseDTO;
+import com.kmv.geological.dto.page.SimplePageResponseDTO;
 import com.kmv.geological.domain.entity.GeologicalClassEntity;
-import com.kmv.geological.repository.AbstractRepository;
-import com.kmv.geological.repository.custom.GeologicalClassRepositoryCustom;
+import com.kmv.geological.domain.repository.AbstractRepository;
+import com.kmv.geological.domain.repository.custom.GeologicalClassRepositoryCustom;
 import java.util.ArrayList;
 import java.util.List;
 import javax.persistence.criteria.CriteriaBuilder;

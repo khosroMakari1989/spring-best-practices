@@ -1,6 +1,6 @@
-package com.kmv.geological.domain.dto.job;
+package com.kmv.geological.dto.job;
 
-import com.kmv.geological.domain.dto.BaseResponseDTO;
+import com.kmv.geological.dto.BaseResponseDTO;
 import com.kmv.geological.domain.entity.enums.JobStatus;
 import com.kmv.geological.domain.entity.enums.JobType;
 

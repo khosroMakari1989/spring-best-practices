@@ -1,4 +1,4 @@
-package com.kmv.geological.domain.dto.section;
+package com.kmv.geological.dto.section;
 
 /**
  *

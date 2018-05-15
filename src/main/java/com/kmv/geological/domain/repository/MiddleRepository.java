@@ -1,4 +1,4 @@
-package com.kmv.geological.repository;
+package com.kmv.geological.domain.repository;
 
 import com.kmv.geological.domain.entity.BaseEntity;
 import java.io.Serializable;

@@ -1,6 +1,6 @@
-package com.kmv.geological.domain.dto.geologicalclass;
+package com.kmv.geological.dto.geologicalclass;
 
-import com.kmv.geological.domain.dto.page.SimplePageRequestDTO;
+import com.kmv.geological.dto.page.SimplePageRequestDTO;
 import javax.validation.constraints.Size;
 
 /**

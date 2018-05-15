@@ -1,8 +1,8 @@
-package com.kmv.geological.repository.api;
+package com.kmv.geological.domain.repository.api;
 
 import com.kmv.geological.domain.entity.GeologicalClassEntity;
-import com.kmv.geological.repository.MiddleRepository;
-import com.kmv.geological.repository.custom.GeologicalClassRepositoryCustom;
+import com.kmv.geological.domain.repository.MiddleRepository;
+import com.kmv.geological.domain.repository.custom.GeologicalClassRepositoryCustom;
 
 /**
  *

@@ -1,6 +1,6 @@
 package com.kmv.geological.controller;
 
-import com.kmv.geological.domain.dto.job.JobResponseDTO;
+import com.kmv.geological.dto.job.JobResponseDTO;
 import com.kmv.geological.domain.entity.JobEntity;
 import com.kmv.geological.service.api.JobService;
 import java.io.IOException;

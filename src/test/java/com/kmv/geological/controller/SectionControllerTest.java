@@ -1,7 +1,7 @@
 package com.kmv.geological.controller;
 
 import com.kmv.geological.config.JacksonMapperConfig;
-import com.kmv.geological.domain.dto.section.SectionWithGeologicals;
+import com.kmv.geological.dto.section.SectionWithGeologicals;
 import com.kmv.geological.domain.entity.enums.JobStatus;
 import com.kmv.geological.domain.entity.enums.JobType;
 import com.kmv.geological.BaseTest;

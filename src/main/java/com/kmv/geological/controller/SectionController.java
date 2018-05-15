@@ -1,10 +1,10 @@
 package com.kmv.geological.controller;
 
 import com.kmv.geological.aspect.CheckBindingResult;
-import com.kmv.geological.domain.dto.page.SimplePageRequestDTO;
-import com.kmv.geological.domain.dto.page.SimplePageResponseDTO;
-import com.kmv.geological.domain.dto.section.SectionWithGeologicals;
-import com.kmv.geological.domain.dto.section.SimpleSectionDTO;
+import com.kmv.geological.dto.page.SimplePageRequestDTO;
+import com.kmv.geological.dto.page.SimplePageResponseDTO;
+import com.kmv.geological.dto.section.SectionWithGeologicals;
+import com.kmv.geological.dto.section.SimpleSectionDTO;
 import com.kmv.geological.service.api.SectionService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

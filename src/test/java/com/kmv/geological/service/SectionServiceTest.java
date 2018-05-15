@@ -1,12 +1,12 @@
 package com.kmv.geological.service;
 
 import com.kmv.geological.BaseTest;
-import com.kmv.geological.domain.dto.geologicalclass.GeologicalClassResponseDTO;
-import com.kmv.geological.domain.dto.page.SimplePageRequestDTO;
-import com.kmv.geological.domain.dto.page.SimplePageResponseDTO;
-import com.kmv.geological.domain.dto.section.SectionByJobRequestDTO;
-import com.kmv.geological.domain.dto.section.SectionWithGeologicals;
-import com.kmv.geological.domain.dto.section.SimpleSectionDTO;
+import com.kmv.geological.dto.geologicalclass.GeologicalClassResponseDTO;
+import com.kmv.geological.dto.page.SimplePageRequestDTO;
+import com.kmv.geological.dto.page.SimplePageResponseDTO;
+import com.kmv.geological.dto.section.SectionByJobRequestDTO;
+import com.kmv.geological.dto.section.SectionWithGeologicals;
+import com.kmv.geological.dto.section.SimpleSectionDTO;
 import com.kmv.geological.domain.entity.enums.JobStatus;
 import com.kmv.geological.domain.entity.enums.JobType;
 import com.kmv.geological.exception.specific.section.DuplicateSectionException;

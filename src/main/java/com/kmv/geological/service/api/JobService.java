@@ -1,6 +1,6 @@
 package com.kmv.geological.service.api;
 
-import com.kmv.geological.domain.dto.job.JobResponseDTO;
+import com.kmv.geological.dto.job.JobResponseDTO;
 import com.kmv.geological.domain.entity.JobEntity;
 import java.io.InputStream;
 import org.springframework.scheduling.annotation.Async;

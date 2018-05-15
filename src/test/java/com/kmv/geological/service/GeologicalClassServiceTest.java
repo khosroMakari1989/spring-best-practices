@@ -1,9 +1,9 @@
 package com.kmv.geological.service;
 
 import com.kmv.geological.BaseTest;
-import com.kmv.geological.domain.dto.geologicalclass.GeologicalClassFilterRequestDTO;
-import com.kmv.geological.domain.dto.geologicalclass.GeologicalClassResponseDTO;
-import com.kmv.geological.domain.dto.page.SimplePageResponseDTO;
+import com.kmv.geological.dto.geologicalclass.GeologicalClassFilterRequestDTO;
+import com.kmv.geological.dto.geologicalclass.GeologicalClassResponseDTO;
+import com.kmv.geological.dto.page.SimplePageResponseDTO;
 import com.kmv.geological.service.api.GeologicalClassService;
 import java.util.Date;
 import org.junit.Assert;

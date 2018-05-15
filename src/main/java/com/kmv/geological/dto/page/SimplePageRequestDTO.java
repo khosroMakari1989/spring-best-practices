@@ -1,6 +1,6 @@
-package com.kmv.geological.domain.dto.page;
+package com.kmv.geological.dto.page;
 
-import com.kmv.geological.domain.dto.BaseRequestDTO;
+import com.kmv.geological.dto.BaseRequestDTO;
 import javax.validation.constraints.Max;
 import javax.validation.constraints.Min;
 

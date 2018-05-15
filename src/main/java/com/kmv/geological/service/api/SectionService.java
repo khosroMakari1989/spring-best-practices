@@ -1,10 +1,10 @@
 package com.kmv.geological.service.api;
 
-import com.kmv.geological.domain.dto.page.SimplePageRequestDTO;
-import com.kmv.geological.domain.dto.page.SimplePageResponseDTO;
-import com.kmv.geological.domain.dto.section.SectionByJobRequestDTO;
-import com.kmv.geological.domain.dto.section.SectionWithGeologicals;
-import com.kmv.geological.domain.dto.section.SimpleSectionDTO;
+import com.kmv.geological.dto.page.SimplePageRequestDTO;
+import com.kmv.geological.dto.page.SimplePageResponseDTO;
+import com.kmv.geological.dto.section.SectionByJobRequestDTO;
+import com.kmv.geological.dto.section.SectionWithGeologicals;
+import com.kmv.geological.dto.section.SimpleSectionDTO;
 
 /**
  *

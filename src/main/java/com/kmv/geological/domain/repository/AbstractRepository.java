@@ -1,4 +1,4 @@
-package com.kmv.geological.repository;
+package com.kmv.geological.domain.repository;
 
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;

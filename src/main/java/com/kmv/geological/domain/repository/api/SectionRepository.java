@@ -1,7 +1,7 @@
-package com.kmv.geological.repository.api;
+package com.kmv.geological.domain.repository.api;
 
 import com.kmv.geological.domain.entity.SectionEntity;
-import com.kmv.geological.repository.MiddleRepository;
+import com.kmv.geological.domain.repository.MiddleRepository;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 

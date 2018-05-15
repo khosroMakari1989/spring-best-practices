@@ -1,6 +1,6 @@
-package com.kmv.geological.domain.dto.page;
+package com.kmv.geological.dto.page;
 
-import com.kmv.geological.domain.dto.BaseResponseDTO;
+import com.kmv.geological.dto.BaseResponseDTO;
 import java.util.List;
 
 /**

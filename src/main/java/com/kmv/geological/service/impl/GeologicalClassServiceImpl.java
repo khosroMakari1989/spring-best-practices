@@ -1,10 +1,10 @@
 package com.kmv.geological.service.impl;
 
-import com.kmv.geological.domain.dto.geologicalclass.GeologicalClassFilterRequestDTO;
-import com.kmv.geological.domain.dto.geologicalclass.GeologicalClassResponseDTO;
-import com.kmv.geological.domain.dto.page.SimplePageResponseDTO;
+import com.kmv.geological.dto.geologicalclass.GeologicalClassFilterRequestDTO;
+import com.kmv.geological.dto.geologicalclass.GeologicalClassResponseDTO;
+import com.kmv.geological.dto.page.SimplePageResponseDTO;
 import com.kmv.geological.exception.BusinessException;
-import com.kmv.geological.repository.api.GeologicalClassRepository;
+import com.kmv.geological.domain.repository.api.GeologicalClassRepository;
 import com.kmv.geological.service.api.GeologicalClassService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.dao.DataAccessException;

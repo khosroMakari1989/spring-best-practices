@@ -1,4 +1,4 @@
-package com.kmv.geological.domain.dto;
+package com.kmv.geological.dto;
 
 import java.io.Serializable;
 

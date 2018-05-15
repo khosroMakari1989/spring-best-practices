@@ -1,17 +1,17 @@
 package com.kmv.geological.service.impl;
 
-import com.kmv.geological.domain.dto.geologicalclass.GeologicalClassResponseDTO;
-import com.kmv.geological.domain.dto.page.SimplePageRequestDTO;
-import com.kmv.geological.domain.dto.page.SimplePageResponseDTO;
-import com.kmv.geological.domain.dto.section.SectionByJobRequestDTO;
-import com.kmv.geological.domain.dto.section.SectionWithGeologicals;
-import com.kmv.geological.domain.dto.section.SimpleSectionDTO;
+import com.kmv.geological.dto.geologicalclass.GeologicalClassResponseDTO;
+import com.kmv.geological.dto.page.SimplePageRequestDTO;
+import com.kmv.geological.dto.page.SimplePageResponseDTO;
+import com.kmv.geological.dto.section.SectionByJobRequestDTO;
+import com.kmv.geological.dto.section.SectionWithGeologicals;
+import com.kmv.geological.dto.section.SimpleSectionDTO;
 import com.kmv.geological.domain.entity.GeologicalClassEntity;
 import com.kmv.geological.domain.entity.SectionEntity;
 import com.kmv.geological.exception.BusinessException;
 import com.kmv.geological.exception.specific.section.DuplicateSectionException;
 import com.kmv.geological.exception.specific.section.NoSuchSectionException;
-import com.kmv.geological.repository.api.SectionRepository;
+import com.kmv.geological.domain.repository.api.SectionRepository;
 import com.kmv.geological.service.api.SectionService;
 import java.util.stream.Collectors;
 import org.springframework.beans.factory.annotation.Autowired;
